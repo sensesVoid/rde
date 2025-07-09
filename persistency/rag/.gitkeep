@@ -1,0 +1,5 @@
+# Retrieval-Augmented Generation (RAG)
+
+This directory is intended to store documents, knowledge bases, and other text-based resources that can be indexed and used for Retrieval-Augmented Generation.
+
+The AI can use the content here to answer questions, generate text, and enhance its understanding of the project's domain.
