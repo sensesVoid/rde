@@ -1,0 +1,4 @@
+import pytest
+
+# This file will contain project-specific dependencies.
+# For this example, we only need pytest.
